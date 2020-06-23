@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Clo
 Conflict
->>>>>>> 0440af2f132e17598bbe3f4e58f60d376fafcf55
+
